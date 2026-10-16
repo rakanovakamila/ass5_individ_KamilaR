@@ -67,10 +67,11 @@ function calculateRectangleArea(width, height)
  {
     return width * height;
  }
+greetUser(yourName);
 greetUser("Kamila");
 greetUser("Amina");
-console.log(calculateSum(5, 3));
-console.log(calculateSum(10, 20));
-console.log(calculateRectangleArea(4, 5));
-console.log(calculateRectangleArea(6, 8));
+console.log(calculateSum(5, 2));
+console.log(calculateSum(254, 789));
+console.log(calculateRectangleArea(5, 9));
+console.log(calculateRectangleArea(6, 7));
 
