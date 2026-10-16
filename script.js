@@ -24,7 +24,7 @@ console.log("Quotient: ", a / b);
 console.log("Remainder: ", a % b);
 
 let name = "Kamila Rakanova";
-console.log("Length:", name.lenght);
+console.log("Length:", name.length);
 console.log("Uppercase:", name.toUpperCase());
 console.log("Lowercase:", name.toLowerCase());
 console.log("First 3 characters:", name.slice(0, 3));
