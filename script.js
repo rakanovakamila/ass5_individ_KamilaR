@@ -15,8 +15,8 @@ let myName = "Kamila";
 let group = "MT=2503";
 console.log("I am " + myName + " and my group is " + group);
 
-let a = Number(prompt("Enter 1st number: "));
-let b = Number(prompt("Enter 2nd number: "));
+let a = Number(prompt("Enter any 1st number: "));
+let b = Number(prompt("Enter any 2nd number: "));
 console.log("Sum: ", a + b);
 console.log("Difference: ", a - b);
 console.log("Product: ", a * b);
